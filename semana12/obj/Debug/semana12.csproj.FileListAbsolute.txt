@@ -1,0 +1,8 @@
+C:\Users\USER\OneDrive\Escritorio\ejercicios_sem 12\semana12\bin\Debug\semana12.exe.config
+C:\Users\USER\OneDrive\Escritorio\ejercicios_sem 12\semana12\bin\Debug\semana12.exe
+C:\Users\USER\OneDrive\Escritorio\ejercicios_sem 12\semana12\bin\Debug\semana12.pdb
+C:\Users\USER\OneDrive\Escritorio\ejercicios_sem 12\semana12\obj\Debug\semana12.csproj.AssemblyReference.cache
+C:\Users\USER\OneDrive\Escritorio\ejercicios_sem 12\semana12\obj\Debug\semana12.csproj.CoreCompileInputs.cache
+C:\Users\USER\OneDrive\Escritorio\ejercicios_sem 12\semana12\obj\Debug\semana12.exe
+C:\Users\USER\OneDrive\Escritorio\ejercicios_sem 12\semana12\obj\Debug\semana12.pdb
+C:\Users\USER\OneDrive\Escritorio\ejercicios_sem 12\semana12\obj\Debug\semana12.exe.config
